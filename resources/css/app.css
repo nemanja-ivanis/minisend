@@ -1,0 +1,12 @@
+body {
+    font-family: 'Nunito';
+}
+
+
+body{
+    margin-top:100px;
+}
+
+#quill-container{
+    height: auto;
+}
